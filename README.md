@@ -10,7 +10,7 @@ TBD
 - Contracts deployed Testnet/MainNet
 
 
-##Tools:
+## Tools:
 - Internal Communication:  Slack channel #learn
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
@@ -18,7 +18,7 @@ TBD
 - Meetings: Google Calendar/Google Meet
 
 
-##Collective (alphabetical order):
+## Collective (alphabetical order):
 
 - ErikTrautman 
 - Josh Ford
