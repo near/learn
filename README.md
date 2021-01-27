@@ -4,6 +4,7 @@
 
 **At LEARN.NEAR we want to onboard to NEAR Users and Devs so they can use and build meaningful applications and improve NEAR itself as Measured by:**
 TBD
+- Developer on-boarding time
 - https://explorer.near.org/stats
 - https://explorer.testnet.near.org/stats
 - MAU
@@ -11,7 +12,7 @@ TBD
 
 
 ## Tools:
-- Internal Communication:  Slack channel #learn
+- Internal Communication:  Slack
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
 - Curriculum drafts/content: Google Docs
