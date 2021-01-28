@@ -12,7 +12,8 @@ TBD
 
 
 ## Tools:
-- Internal Communication:  Slack
+- Internal Communication: #docs4devs channel at Slack please mention @particualr_person when required
+- External communication: #docs4devs channel at Discord
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
 - Curriculum drafts/content: Google Docs
