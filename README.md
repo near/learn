@@ -1,4 +1,4 @@
-# LEARN.NEAR HOME [Draft]
+# LEARN.NEAR HOME - Learn about NEAR, building on NEAR and building NEAR [Draft]
 
 ## Objective: 
 
