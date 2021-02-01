@@ -12,7 +12,7 @@ TBD
 
 
 ## Tools:
-- Internal Communication: #docs4devs channel at Slack please mention @particualr_person when required
+- Internal Communication: #learn4devs channel at Slack please mention @particualr_person when required
 - External communication: TBD
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
