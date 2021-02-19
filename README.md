@@ -12,7 +12,7 @@ TBD
 
 
 ## Tools:
-- Internal Communication: #learn-near Discord chanel
+- Internal Communication: #learn-near Discord channel
 - External communication: TBD
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
