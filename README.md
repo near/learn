@@ -22,8 +22,9 @@ TBD
 
 ## Collective (alphabetical order):
 
-- ErikTrautman
+- Erik Trautman
 - Evgeny Kuzyakov
 - Mike Purvis
+- Robert Yan
 - Sasha Baksht
 - Sherif Abushadi
