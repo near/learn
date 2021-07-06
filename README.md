@@ -1,4 +1,4 @@
-# LEARN.NEAR HOME - Learn about NEAR, building on NEAR and building NEAR [Draft]
+# LEARN.NEAR HOME - Learn and Earn about NEAR, building on NEAR and building NEAR
 
 ## Objective: 
 
@@ -17,7 +17,7 @@ TBD
 - Outbound Communication: Discourse
 - Project Board: GitHub project - https://github.com/near/learn/projects/1
 - Curriculum drafts/content: Google Docs
-- Meetings: Google Calendar/Google Meet
+- Meetings: Google Calendar/Zoom
 
 
 ## Collective (alphabetical order):
